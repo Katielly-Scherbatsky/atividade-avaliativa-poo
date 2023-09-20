@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioFixacaoLista04POO/1.0.0": {
+        "runtime": {
+          "ExercicioFixacaoLista04POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioFixacaoLista04POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

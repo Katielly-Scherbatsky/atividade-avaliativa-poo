@@ -1,0 +1,15 @@
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\obj\Debug\net6.0\ExercicioFixacaoLista04POO.csproj.AssemblyReference.cache
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\obj\Debug\net6.0\ExercicioFixacaoLista04POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\obj\Debug\net6.0\ExercicioFixacaoLista04POO.AssemblyInfoInputs.cache
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\obj\Debug\net6.0\ExercicioFixacaoLista04POO.AssemblyInfo.cs
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\obj\Debug\net6.0\ExercicioFixacaoLista04POO.csproj.CoreCompileInputs.cache
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\bin\Debug\net6.0\ExercicioFixacaoLista04POO.exe
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\bin\Debug\net6.0\ExercicioFixacaoLista04POO.deps.json
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\bin\Debug\net6.0\ExercicioFixacaoLista04POO.runtimeconfig.json
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\bin\Debug\net6.0\ExercicioFixacaoLista04POO.dll
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\bin\Debug\net6.0\ExercicioFixacaoLista04POO.pdb
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\obj\Debug\net6.0\ExercicioFixacaoLista04POO.dll
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\obj\Debug\net6.0\refint\ExercicioFixacaoLista04POO.dll
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\obj\Debug\net6.0\ExercicioFixacaoLista04POO.pdb
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\obj\Debug\net6.0\ExercicioFixacaoLista04POO.genruntimeconfig.cache
+C:\Users\Katielly\source\repos\ExercicioFixacaoLista04POO\obj\Debug\net6.0\ref\ExercicioFixacaoLista04POO.dll
